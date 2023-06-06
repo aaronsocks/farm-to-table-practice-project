@@ -295,13 +295,14 @@ nav.social{
         align-items: center;
     }
     footer div{
-        width: 90;
+        width: 90%;
         margin: 4% 0;
     }
     footer h3{
         font-size: 2rem;
     }
     .copyright{
-        
+        justify-content: center;
+        align-items: center;
     }
 }
